@@ -5,7 +5,7 @@ const Page = () => {
     <div className="bg-stone-100 sm:py-20 flex justify-center">
       <div className="font-secondary font-normal text-base bg-white rounded-2xl overflow-hidden sm:max-w-2xl">
         <div>
-          <img src="/image-omelette.jpeg"></img>
+          <img src="image-omelette.jpeg" alt="Omelette" />
         </div>
 
         <div className="p-9">
