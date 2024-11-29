@@ -4,7 +4,7 @@ const Page = () => {
   return (
     <div className="bg-stone-100 sm:py-20 flex justify-center">
       <div className="font-secondary font-normal text-base bg-white rounded-2xl overflow-hidden sm:max-w-2xl">
-        <div>
+        <div className="sm:px-9 sm:pt-9">
           <img src="image-omelette.jpeg" alt="Omelette" />
         </div>
 
